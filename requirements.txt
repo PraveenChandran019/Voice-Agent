@@ -1,5 +1,5 @@
 streamlit
-gTTS
-pydub
 groq
-requests
+audio-recorder-streamlit
+edge-tts
+gTTS
