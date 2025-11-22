@@ -1,1 +1,5 @@
-
+streamlit
+gTTS
+pydub
+groq
+requests
